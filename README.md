@@ -22,10 +22,10 @@ O script define uma função `somatorioDivisiveis35(numero)` que recebe um núme
     Busque pela opção " CONSOLE "
 
 ### 5. *Transferir o Codigo:*
-    Colar o codigo do repositorio no console
+    Copie e Colar o codigo do repositório no console
 
 ### 6. *Executar os Testes:*
-    Precione " ENTER " e insirar os numeros para somatorio dos numeors divisiveis por 3 ou por 5
+    Precione " ENTER " e insirar os números para somatorio dos números divisíveis por 3 ou por 5
 
 
 
