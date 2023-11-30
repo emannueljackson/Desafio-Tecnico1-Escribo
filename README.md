@@ -14,7 +14,7 @@ O script define uma função `somatorioDivisiveis35(numero)` que recebe um núme
    ```bash
    https://github.com/emannueljackson/teste-escribo.git
 
-###2. *Abrir o Navegador:*
+## 2. *Abrir o Navegador:*
     Acessar da sua preferência
 
 3. *Inspecionar o Elemento:* 
