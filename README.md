@@ -12,7 +12,7 @@ O script define uma função `somatorioDivisiveis35(numero)` que recebe um núme
     Acessar este repositório para o seu computador.
 
    ```bash
-   git clone [https://github.com/emannueljackson/teste-escribo.git
+   https://github.com/emannueljackson/teste-escribo.git
 
 2. *Abrir o Navegador:*
     Acessar da sua prefeência
