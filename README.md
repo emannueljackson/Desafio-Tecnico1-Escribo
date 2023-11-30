@@ -14,19 +14,19 @@ O script define uma função `somatorioDivisiveis35(numero)` que recebe um núme
    https://github.com/emannueljackson/teste-escribo.git
 
 ### 2. *Abrir o Navegador:*
-    Acessar navegador da sua preferência
-
-### 3. *Inspecionar o Elemento:* 
-   Click com o botão direito do mouse, e procure a opção "Inspecionar Elemento"
-
+    Acessar navegador de sua preferência
+   
+### 3. *Inspecionar o Elemento:*
+    Click com o botão direito do mouse, e procure a opção "Inspecionar Elemento"
+   
 ### 4. *Acessar o Console:*
-   Busque pela opção console
+    Busque pela opção " CONSOLE "
 
 ### 5. *Transferir o Codigo:*
-   Colar o codigo do repositorio no console
+    Colar o codigo do repositorio no console
 
 ### 6. *Executar os Testes:*
-   Precione " ENTER " e insirar os numeros para somatorio dos numeors divisiveis por 3 ou por 5
+    Precione " ENTER " e insirar os numeros para somatorio dos numeors divisiveis por 3 ou por 5
 
 
 
