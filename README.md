@@ -10,7 +10,7 @@ O script define uma função `somatorioDivisiveis35(numero)` que recebe um núme
 
 ### 1. *Acessar o Repositório:*
     Acessar este repositório para o seu computador.
-    https://github.com/emannueljackson/teste-escribo.git
+    https://github.com/emannueljackson/Desafio-Tecnico1-Escribo.git
 
 ### 2. *Abrir o Navegador:*
     Acessar navegador de sua preferência
