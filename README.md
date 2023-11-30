@@ -15,7 +15,7 @@ O script define uma função `somatorioDivisiveis35(numero)` que recebe um núme
    https://github.com/emannueljackson/teste-escribo.git
 
 2. *Abrir o Navegador:*
-    Acessar da sua prefeência
+    Acessar da sua preferência
 
 3. *Inspecionar o Elemento:*
    Click com o botão direito do mouse, e procure a opção "Inspecionar Elemento"
