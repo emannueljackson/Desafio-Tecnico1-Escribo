@@ -12,4 +12,4 @@ O script define uma função `somatorioDivisiveis35(numero)` que recebe um núme
    Clone ou baixe este repositório para o seu computador.
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone [https://github.com/emannueljackson/teste-escribo.git
