@@ -8,8 +8,27 @@ O script define uma função `somatorioDivisiveis35(numero)` que recebe um núme
 
 ## Como Executar no Navegador Web
 
-1. *Clone o Repositório:*
-   Clone ou baixe este repositório para o seu computador.
+1. *Acessar o Repositório:*
+    Acessar este repositório para o seu computador.
 
    ```bash
    git clone [https://github.com/emannueljackson/teste-escribo.git
+
+2. *Abrir o Navegador:*
+    Acessar da sua prefeência
+
+3. *Inspecionar o Elemento:*
+   Click com o botão direito do mouse, e procure a opção "Inspecionar Elemento"
+
+4. *Acessar o Console:*
+   Busque pela opção console
+
+5. *Transferir o Codigo:*
+   Colar o codigo do repositorio no console
+
+6. *Executar os Testes:*
+   Precione " ENTER " e insirar os numeros para somatorio dos numeors divisiveis por 3 ou por 5
+
+
+
+
