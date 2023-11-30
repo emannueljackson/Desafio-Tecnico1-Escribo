@@ -19,4 +19,4 @@ const numeroLimite = parseInt(prompt("Digite um número inteiro:"));
 
 // Chama a função e exibe o resultado
 const resultadoSoma = somatorioDivisiveis35(numeroLimite);
-console.log('A soma dos números divisíveis por 3 e 5 até ${numeroLimite} é: ${resultadoSoma}');
+console.log('A soma dos números divisíveis por 3 e 5 até ' + numeroLimite + '  é:' + resultadoSoma);
